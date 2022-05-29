@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
-<h3 align="center">A passionate Web developer from Pakistan</h3>
+<h3 align="center">A Passionate Web Developer From Pakistan</h3>
 
 
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **on more open source projects**
 
-- 💬 Ask me about **Web Development, Programming etc**
+- 💬 Ask me about **Web Development, Programming, etc.**
 
 - 📫 How to reach me **Say &#128075; at <a href="https://www.linkedin.com/in/iamahmadraza/" target="blank">Ahmad Raza</a>**
 
