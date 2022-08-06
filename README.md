@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a **Freelancer**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.js, Web3, BlockChain**
 
 - 👯 I’m looking to collaborate on **GSOC**
 
