@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js, Web3, BlockChain**
 
-- 👯 I’m looking to collaborate on **GSOC**
+- 👯 I’m looking to collaborate on **Open Source, GSOC**
 
 - 🤝 I’m looking for help with **on more open source projects**
 
