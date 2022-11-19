@@ -22,10 +22,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ahmadrazacode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmadrazacode" height="30" width="40" /></a>
+<a href="https://twitter.com/meAhmadRaxa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmadrazacode" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iamahmadraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamahmadraza" height="30" width="40" /></a>
 <a href="https://fb.com/meahmadraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="meahmadraza" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmadraza.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmadraza.js" height="30" width="40" /></a>
+<a href="https://www.instagram.com/imahmadraxa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmadraza.js" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCQ4lCxOXPNuAWWEipGNx2zQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ahmadtechhelp" height="30" width="40" /></a>
 <a href="https://discord.gg/x8xv3eCQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="x8xv3eCQ" height="30" width="40" /></a>
  <a href="https://stackoverflow.com/users/16273609" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16273609" height="30" width="40" /></a>
