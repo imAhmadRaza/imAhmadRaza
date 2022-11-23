@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I love to watch comedy videos**
 
-<p align="left"> <a href="https://twitter.com/meAhmadRaxa" target="blank"><img src="https://img.shields.io/twitter/follow/ahmadrazacode?logo=twitter&style=for-the-badge" alt="ahmadrazacode" /></a> </p>
+<p align="left"> <a href="https://twitter.com/meAhmadRaxa" target="blank"><img src="https://img.shields.io/twitter/follow/meahmadraxa?logo=twitter&style=for-the-badge" alt="meahmadraxa" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
